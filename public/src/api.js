@@ -1,1 +1,1 @@
-export default "/api/messages";
+export default "http://localhost:3001/api/messages";
